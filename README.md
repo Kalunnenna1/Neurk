@@ -1,8 +1,8 @@
 <div align="center">
 
-<h2 align="center"> Ed-Circle - Education Website</h2>
+<h2 align="center"> Neurk - Ecommerce Website</h2>
 
-  Ed-circle is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Neurk is online store where sale our farms fresh products <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 </div>
 
 <br />
